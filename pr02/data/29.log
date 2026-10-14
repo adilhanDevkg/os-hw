@@ -1,0 +1,120 @@
+2026-02-14 10:58:11 INFO module=storage msg=write buffer full
+2026-02-14 10:58:26 INFO module=auth msg=unauthorized access
+2026-02-14 10:58:37 WARN module=worker msg=queue backlog growing
+2026-02-14 10:58:47 INFO module=api msg=gateway timeout 504
+2026-02-14 10:58:49 INFO module=worker msg=memory limit exceeded
+2026-02-14 10:58:56 DEBUG module=db msg=slow query > 500ms
+2026-02-14 10:59:07 WARN module=auth msg=session terminated
+2026-02-14 10:59:13 ERROR module=db msg=foreign key violation
+2026-02-14 10:59:25 INFO module=api msg=internal server error 500
+2026-02-14 10:59:35 WARN module=auth msg=invalid password
+2026-02-14 10:59:40 INFO module=auth msg=session terminated
+2026-02-14 10:59:41 WARN module=db msg=connection pool exhausted
+2026-02-14 10:59:52 INFO module=api msg=internal server error 500
+2026-02-14 10:59:59 INFO module=net msg=packet loss detected
+2026-02-14 11:00:07 ERROR module=db msg=deadlock detected
+2026-02-14 11:00:12 WARN module=auth msg=token expired
+2026-02-14 11:00:21 INFO module=cache msg=cache miss spike
+2026-02-14 11:00:31 WARN module=auth msg=invalid password
+2026-02-14 11:00:43 INFO module=api msg=rate limit exceeded
+2026-02-14 11:00:56 ERROR module=db msg=deadlock detected
+2026-02-14 11:01:07 INFO module=auth msg=unauthorized access
+2026-02-14 11:01:16 INFO module=auth msg=session terminated
+2026-02-14 11:01:30 ERROR module=db msg=slow query > 500ms
+2026-02-14 11:01:45 INFO module=api msg=bad request 400
+2026-02-14 11:01:54 ERROR module=net msg=connection timeout
+2026-02-14 11:02:08 INFO module=storage msg=disk space low
+2026-02-14 11:02:17 INFO module=api msg=rate limit exceeded
+2026-02-14 11:02:20 INFO module=net msg=socket reset by peer
+2026-02-14 11:02:31 ERROR module=auth msg=invalid password
+2026-02-14 11:02:36 ERROR module=worker msg=queue backlog growing
+2026-02-14 11:02:47 WARN module=worker msg=memory limit exceeded
+2026-02-14 11:03:01 INFO module=net msg=handshake failed
+2026-02-14 11:03:02 INFO module=worker msg=worker thread crashed
+2026-02-14 11:03:04 ERROR module=worker msg=queue backlog growing
+2026-02-14 11:03:08 ERROR module=worker msg=memory limit exceeded
+2026-02-14 11:03:21 INFO module=storage msg=disk space low
+2026-02-14 11:03:26 INFO module=auth msg=invalid password
+2026-02-14 11:03:31 DEBUG module=storage msg=inode exhausted
+2026-02-14 11:03:38 INFO module=net msg=socket reset by peer
+2026-02-14 11:03:45 WARN module=api msg=gateway timeout 504
+2026-02-14 11:04:00 ERROR module=storage msg=write buffer full
+2026-02-14 11:04:07 INFO module=api msg=internal server error 500
+2026-02-14 11:04:13 ERROR module=cache msg=cache miss spike
+2026-02-14 11:04:21 INFO module=net msg=handshake failed
+2026-02-14 11:04:34 INFO module=db msg=foreign key violation
+2026-02-14 11:04:44 INFO module=db msg=connection pool exhausted
+2026-02-14 11:04:47 ERROR module=net msg=connection timeout
+2026-02-14 11:04:56 INFO module=worker msg=queue backlog growing
+2026-02-14 11:05:06 INFO module=auth msg=session terminated
+2026-02-14 11:05:16 ERROR module=storage msg=write buffer full
+2026-02-14 11:05:17 ERROR module=db msg=foreign key violation
+2026-02-14 11:05:22 ERROR module=worker msg=worker thread crashed
+2026-02-14 11:05:23 INFO module=storage msg=inode exhausted
+2026-02-14 11:05:37 INFO module=cache msg=key evictions high
+2026-02-14 11:05:50 WARN module=api msg=internal server error 500
+2026-02-14 11:05:56 DEBUG module=auth msg=unauthorized access
+2026-02-14 11:06:04 ERROR module=storage msg=disk space low
+2026-02-14 11:06:19 INFO module=cache msg=cache miss spike
+2026-02-14 11:06:26 INFO module=net msg=socket reset by peer
+2026-02-14 11:06:35 ERROR module=auth msg=token expired
+2026-02-14 11:06:43 ERROR module=net msg=connection timeout
+2026-02-14 11:06:58 WARN module=auth msg=session terminated
+2026-02-14 11:07:01 ERROR module=storage msg=inode exhausted
+2026-02-14 11:07:08 INFO module=net msg=handshake failed
+2026-02-14 11:07:13 ERROR module=cache msg=redis node unavailable
+2026-02-14 11:07:22 INFO module=db msg=slow query > 500ms
+2026-02-14 11:07:25 INFO module=cache msg=key evictions high
+2026-02-14 11:07:38 WARN module=cache msg=redis node unavailable
+2026-02-14 11:07:47 WARN module=api msg=internal server error 500
+2026-02-14 11:07:51 DEBUG module=cache msg=key evictions high
+2026-02-14 11:07:54 WARN module=worker msg=queue backlog growing
+2026-02-14 11:07:55 INFO module=auth msg=token expired
+2026-02-14 11:08:03 INFO module=net msg=packet loss detected
+2026-02-14 11:08:15 INFO module=cache msg=cache miss spike
+2026-02-14 11:08:24 WARN module=net msg=connection timeout
+2026-02-14 11:08:34 WARN module=auth msg=invalid password
+2026-02-14 11:08:40 WARN module=auth msg=unauthorized access
+2026-02-14 11:08:51 INFO module=auth msg=unauthorized access
+2026-02-14 11:08:56 ERROR module=worker msg=queue backlog growing
+2026-02-14 11:09:06 ERROR module=db msg=foreign key violation
+2026-02-14 11:09:21 INFO module=storage msg=write buffer full
+2026-02-14 11:09:23 WARN module=net msg=socket reset by peer
+2026-02-14 11:09:28 INFO module=storage msg=disk space low
+2026-02-14 11:09:31 ERROR module=storage msg=inode exhausted
+2026-02-14 11:09:37 WARN module=worker msg=memory limit exceeded
+2026-02-14 11:09:50 ERROR module=storage msg=inode exhausted
+2026-02-14 11:09:54 INFO module=worker msg=worker thread crashed
+2026-02-14 11:09:58 INFO module=worker msg=worker thread crashed
+2026-02-14 11:10:01 INFO module=worker msg=task retry failed
+2026-02-14 11:10:07 INFO module=net msg=socket reset by peer
+2026-02-14 11:10:16 ERROR module=api msg=internal server error 500
+2026-02-14 11:10:22 INFO module=worker msg=task retry failed
+2026-02-14 11:10:26 WARN module=api msg=internal server error 500
+2026-02-14 11:10:38 WARN module=db msg=connection pool exhausted
+2026-02-14 11:10:47 INFO module=storage msg=write buffer full
+2026-02-14 11:10:50 DEBUG module=worker msg=memory limit exceeded
+2026-02-14 11:11:02 INFO module=api msg=internal server error 500
+2026-02-14 11:11:10 ERROR module=db msg=deadlock detected
+2026-02-14 11:11:19 ERROR module=cache msg=redis node unavailable
+2026-02-14 11:11:22 INFO module=db msg=foreign key violation
+2026-02-14 11:11:35 ERROR module=cache msg=serialization error
+2026-02-14 11:11:39 WARN module=auth msg=session terminated
+2026-02-14 11:11:45 INFO module=cache msg=cache miss spike
+2026-02-14 11:11:49 WARN module=storage msg=write buffer full
+2026-02-14 11:11:50 WARN module=db msg=deadlock detected
+2026-02-14 11:12:05 INFO module=db msg=deadlock detected
+2026-02-14 11:12:15 INFO module=cache msg=redis node unavailable
+2026-02-14 11:12:26 WARN module=net msg=packet loss detected
+2026-02-14 11:12:31 WARN module=storage msg=disk space low
+2026-02-14 11:12:45 ERROR module=api msg=internal server error 500
+2026-02-14 11:12:53 INFO module=cache msg=cache miss spike
+2026-02-14 11:12:54 INFO module=storage msg=write buffer full
+2026-02-14 11:13:06 ERROR module=worker msg=worker thread crashed
+2026-02-14 11:13:08 WARN module=worker msg=task retry failed
+2026-02-14 11:13:09 WARN module=cache msg=cache miss spike
+2026-02-14 11:13:15 INFO module=storage msg=IO error sector 42
+2026-02-14 11:13:29 INFO module=storage msg=disk space low
+2026-02-14 11:13:35 ERROR module=worker msg=memory limit exceeded
+2026-02-14 11:13:50 ERROR module=storage msg=IO error sector 42
+2026-02-14 11:13:59 INFO module=cache msg=serialization error
