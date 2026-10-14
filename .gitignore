@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Transient sockets and FIFOs
+*.sock
+*.fifo
+
+# Large benchmark data file generated on demand
+pr04/numbers.txt
